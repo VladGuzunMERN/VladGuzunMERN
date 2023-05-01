@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VladGuzunMERN
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React/Express/Node/MongoDB/others
+- 🌱 I’m currently learning React/Express/Node/MongoDB/other frameworks
 - 💞️ I’m looking for a part/full time web dev job
 - 📫 vladguzun20022@gmail.com
 
